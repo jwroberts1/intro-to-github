@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+.head {
+	font-family: duckie, sans-serif;
+	font-style: normal;
+	font-weight: 0;
+	font-size: 400%;
+	text-align: center;
+	color: whitesmoke;
+
+}
+
+.nav {
+	font-family: duckie, sans-serif;
+	font-style: normal;
+	font-weight: 0;
+	font-size: 300%;
+	color: whitesmoke;
+
+}
+
+.list_headings {
+	font-family: duckie, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 200%;
+	text-align: center;
+	color: whitesmoke;
+}
+body footer {
+}
+
+body {
+    -webkit-box-shadow: 0px 0px #7BAFD4;
+    box-shadow: 0px 0px #7BAFD4;
+	background-image: url("assets/Clouds.jpg");
+}
+
+.content {
+	font-size: large;
+}
+
+.attribution {
+	font-size: normal;
+	text-align: center;
+}
+
+
+
